@@ -5,9 +5,8 @@
 
 ### 💻 Portfolio
 
-Check out my personal portfolio to see my projects, and more:
 <a href="https://momoumita.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio" />
+  <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio" />
 </a>
 
 * 🎓 Undergraduate student.
