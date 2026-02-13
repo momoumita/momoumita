@@ -10,7 +10,8 @@
 </a>
 
 * 🎓 Undergraduate student.
-* ✨ Always eager to learn new technologies!
+* 🚀 CS student driven by a curiosity for Machine Learning and full-stack development!
+* 💡 Always building, constantly learning, and eager to solve real-world problems through code and AI!
 
 ## Tech Stack:
 
